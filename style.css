@@ -1,0 +1,42 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+body {
+  background-color: white;
+  color: white;
+}
+#black {
+  width: 600px;
+  height: 700px;
+  margin-top: 55px;
+  margin-bottom: 40px;
+  background-color: black;
+}
+div {
+  background-color: white;
+  color: black;
+  width: 500px;
+  height: 600px;
+}
+img {
+  height: 260px;
+  margin-top: 50px;
+}
+hr {
+  margin-top: 20px;
+  width: 250px;
+  background-color: white;
+  color: black;
+  height: 10px;
+}
+button {
+  background-color: black;
+  color: white;
+  margin-top: 20px;
+  height: 50px;
+  width: 50px;
+}
+#Names {
+  margin-top: 15px;
+}
